@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "42854036490",
+    "firebase_url": "https://forstrat-1d9ed.firebaseio.com",
+    "project_id": "forstrat-1d9ed",
+    "storage_bucket": "forstrat-1d9ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42854036490:android:1317f6c17e224ba5",
+        "android_client_info": {
+          "package_name": "com.mzt.klhsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42854036490-od3nmofu38eec4mts2mk9u17bj0ejllj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mzt.klhsapp",
+            "certificate_hash": "4486dd033fc1e7051fdabc5559dbca9cfc2b4e1f"
+          }
+        },
+        {
+          "client_id": "42854036490-58vis0ig7mfohpjtflpfa3mcfmg8gda0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmBz9wXlqAaIXuNIU1TN5TsazLCRG6H_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42854036490-58vis0ig7mfohpjtflpfa3mcfmg8gda0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
